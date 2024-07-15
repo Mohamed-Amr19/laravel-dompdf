@@ -17,7 +17,7 @@
         "php": "^8.1",
         "dompdf/dompdf": "^3.0",
         "illuminate/support": "^9|^10|^11",
-        "khaled.alshamaa/ar-php": "^6.0",
+        "khaled.alshamaa/ar-php": "^6.0"
     },
     "require-dev": {
         "orchestra/testbench": "^7|^8|^9",
